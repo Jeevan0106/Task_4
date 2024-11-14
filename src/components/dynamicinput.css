@@ -1,0 +1,21 @@
+/* styles/DynamicInput.css */
+.input-container {
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .input-box {
+    padding: 10px;
+    font-size: 16px;
+    width: 50%;
+    margin-bottom: 10px;
+    border-radius: 5px;
+  }
+  
+  .current-input {
+    font-weight: bold;
+    color: #555;
+  }
+  
